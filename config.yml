@@ -1,0 +1,284 @@
+ServerInfo:
+  License: H59SW9S3G95TM1NAS59F
+GameSettings:
+  Tickets: 50
+  EndingFireWorks: true
+  TeamSettings:
+    US:
+      SpawnBorderX: 316
+      SpawnX: 150
+      SpawnY: 87
+      SpawnZ: -608
+    CN:
+      SpawnBorderX: 189
+      SpawnX: 356
+      SpawnY: 88
+      SpawnZ: -619
+  ObjectiveSettings:
+    RewardCaptureCommands:
+    - eco give <PLAYERNAME> 5
+    RewardKillCommands:
+    - eco give <PLAYERNAME> 10
+    RewardWinCommands:
+    - eco give <PLAYERNAME> 100
+    A:
+      X: 0
+      Y: 0
+      Z: 0
+    B:
+      X: 0
+      Y: 0
+      Z: 0
+    C:
+      X: 0
+      Y: 0
+      Z: 0
+    D:
+      X: 0
+      Y: 0
+      Z: 0
+    E:
+      X: 0
+      Y: 0
+      Z: 0
+  CaptureDistance: 5
+  A:
+    X: 266
+    Y: 74
+    Z: -618
+  B:
+    X: 241
+    Y: 115
+    Z: -651
+  C:
+    X: 273
+    Y: 88
+    Z: -566
+  D:
+    X: 302
+    Y: 92
+    Z: -642
+  E:
+    X: 202
+    Y: 77
+    Z: -522
+  ClassSettings:
+    Assult:
+      T1:
+        Guns:
+        - carbine
+        - flashbang
+        - grenade 4
+        Bandages: 0
+      T2:
+        Cost: 100
+        Guns:
+        - ak-47
+        - flashbang 3
+        - grenade 5
+        - sandycluster
+        Bandages: 1
+      T3:
+        Cost: 150
+        Guns:
+        - m4a97
+        - flashbang 6
+        - grenade 12
+        - sandycluster
+        - bazooka
+        Bandages: 1
+      T4:
+        Cost: 200
+        Guns:
+        - m4a97
+        - flashbang 6
+        - grenade 12
+        - sandycluster
+        - bazooka
+        Bandages: 1
+    Engineer:
+      T1:
+        Guns:
+        - carbine
+        - python
+        - flashbang
+        - grenade 4
+        Bandages: 1
+      T2:
+        Cost: 50
+        Guns:
+        - carbine
+        - python
+        - daq-12
+        - flashbang 3
+        - grenade 5
+        Bandages: 1
+      T3:
+        Cost: 150
+        Guns:
+        - m4a97
+        - python
+        - flashbang 6
+        - grenade 12
+        - daq-12
+        - bazooka
+        Bandages: 1
+      T4:
+        Cost: 225
+        Guns:
+        - m4a97
+        - python
+        - flashbang 6
+        - grenade 12
+        - daq-12
+        - bazooka
+        Bandages: 1
+    VIP:
+      T1:
+        Guns:
+        - ak-47
+        - flashbang
+        - grenade 4
+        - airstrike 1
+        Bandages: 1
+      T2:
+        Cost: 50
+        Guns:
+        - ak-47
+        - flashbang 3
+        - grenade 5
+        - airstrike 3
+        Bandages: 4
+      T3:
+        Cost: 150
+        Guns:
+        - ak-47
+        - flashbang 6
+        - grenade 12
+        - olympia
+        - bazooka
+        - airstrike 5
+        Bandages: 1
+      T4:
+        Cost: 250
+        Guns:
+        - ak-47
+        - python
+        - flashbang 6
+        - grenade 12
+        - olympia
+        - bazooka
+        - airstrike 4
+        - sandycluster
+        Bandages: 1
+    MVP:
+      T1:
+        Guns:
+        - m4a97
+        - flashbang
+        - grenade 4
+        - bazooka
+        Bandages: 1
+      T2:
+        Cost: 20
+        Guns:
+        - m4a97
+        - flashbang 3
+        - grenade 6
+        - bazooka
+        Bandages: 1
+      T3:
+        Cost: 50
+        Guns:
+        - m4a97
+        - flashbang 6
+        - grenade 12
+        - daq-12
+        - bazooka
+        Bandages: 1
+      T4:
+        Cost: 125
+        Guns:
+        - m4a97
+        - flashbang 6
+        - grenade 24
+        - daq-12
+        - bazooka
+        Bandages: 1
+    Sniper:
+      T1:
+        Guns:
+        - barret-50
+        - python
+        - flashbang
+        - grenade 4
+        - putty 3
+        Bandages: 1
+      T2:
+        Cost: 125
+        Guns:
+        - barret-50
+        - python
+        - flashbang 3
+        - grenade 5
+        - putty 10
+        Bandages: 1
+      T3:
+        Cost: 250
+        Guns:
+        - barret-50
+        - python
+        - flashbang 6
+        - grenade 12
+        - bazooka
+        - putty 18
+        Bandages: 1
+      T4:
+        Cost: 300
+        Guns:
+        - barret-50
+        - python
+        - flashbang 6
+        - grenade 12
+        - bazooka
+        - putty 32
+        Bandages: 1
+    Medic:
+      T1:
+        Guns:
+        - ak-47
+        - flashbang 2
+        - grenade 4
+        Bandages: 5
+      T2:
+        Cost: 25
+        Guns:
+        - ak-47
+        - flashbang 3
+        - grenade 5
+        Bandages: 10
+      T3:
+        Cost: 100
+        Guns:
+        - ak-47
+        - flashbang 6
+        - grenade 12
+        - daq-12
+        - bazooka
+        Bandages: 15
+      T4:
+        Cost: 200
+        Guns:
+        - ak-47
+        - flashbang 6
+        - grenade 12
+        - daq-12
+        - bazooka
+        Bandages: 20
+PlayerData:
+  Wintergrasped:
+    BattlesPlayed: '0'
+    ObjectivesCapture: '0'
+    Deaths: '0'
+    Kills: '0'
+    Bandaged: '0'

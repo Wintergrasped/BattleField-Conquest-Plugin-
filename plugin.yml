@@ -1,0 +1,17 @@
+name: WintersDeathMatch
+version: 1.0
+description: FUCK THE DESCRIPTION
+author: Wintergrasped
+main: net.wmcsn.DeathMatch.MainClass
+commands:
+  class:
+    description: Choose a Class Assult, Medic, Enigineer, VIP, MVP
+  bf:
+    description: Choose a Class Assult, Medic, Enigineer, VIP, MVP
+  bug:
+    description: Choose a Class Assult, Medic, Enigineer, VIP, MVP
+permissions:
+  bf.vip:
+    description: Allows Acsess To VIP Class
+  bf.mvp:
+    description: Allows Acsess To MVP Class
